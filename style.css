@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #0073b1;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+header a {
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+section {
+  padding: 2rem;
+  background: white;
+  margin: 1rem auto;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+ul {
+  list-style: square;
+  margin-left: 1.2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+}
